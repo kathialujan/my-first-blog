@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'GMT-6'
+TIME_ZONE = 'America/Chihuahua'
 
 USE_I18N = True
 
